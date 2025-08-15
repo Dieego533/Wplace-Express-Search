@@ -27,7 +27,7 @@ This project is based on the code from [whtepony/Wplace-Search](https://github.c
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser.
 2. Click this link to open the script directly in Tampermonkey:  
-   **[Install Wplace Express Search](https://github.com/Dieego533/Wplace-Express-Search/raw/master/wplace-express-search.js)**
+   **[Install Wplace Express Search](https://github.com/Dieego533/Wplace-Express-Search/raw/master/wplace-express-search.user.js)**
 3. In Tampermonkey, click **Install**.
 4. Reload [Wplace.live](https://wplace.live).
 
