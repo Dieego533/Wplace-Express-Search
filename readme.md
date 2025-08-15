@@ -1,6 +1,6 @@
 # Wplace Express Search
 
-![Preview](./05bc0bb9-f448-4fb3-a8e7-ac565f8fa230.png)
+![Preview](https://github.com/Dieego533/Wplace-Express-Search/blob/master/image.png?raw=true)
 
 ---
 
@@ -23,11 +23,13 @@ This project is based on the code from [whtepony/Wplace-Search](https://github.c
 
 ---
 
-## 🛠 Installation
+## 🛠 Installation (Tampermonkey only)
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser.
-2. Create a new script and paste the content from `wplace-express-search.user.js`.
-3. Save changes and reload [Wplace.live](https://wplace.live).
+2. Click this link to open the script directly in Tampermonkey:  
+   **[Install Wplace Express Search](https://github.com/Dieego533/Wplace-Express-Search/raw/master/wplace-express-search.js)**
+3. In Tampermonkey, click **Install**.
+4. Reload [Wplace.live](https://wplace.live).
 
 ---
 
@@ -51,10 +53,8 @@ This project is based on the code from [whtepony/Wplace-Search](https://github.c
 
 ---
 
-## 📷 Example screenshot
-
-![Script in action](./05bc0bb9-f448-4fb3-a8e7-ac565f8fa230.png)
-
----
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wplace-express-search)](https://github.com/yourusername/wplace-express-search)
+<p align="center">
+  <a href="https://github.com/Dieego533/Wplace-Express-Search">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=wplace-express-search" alt="Visitors">
+  </a>
+</p>
